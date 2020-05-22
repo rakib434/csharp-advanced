@@ -25,6 +25,11 @@ namespace csharp_advanced
             processor.Process("photo.jpg", filterHandler);
 
             //---------------------------Delegate End-----------------------------
+            //---------------------------Lambda Start-----------------------------
+            Func<int, int> result = square => square * square;
+            Console.WriteLine(result(5));
+            //---------------------------Lambda End-----------------------------
+
 
         }
     }
