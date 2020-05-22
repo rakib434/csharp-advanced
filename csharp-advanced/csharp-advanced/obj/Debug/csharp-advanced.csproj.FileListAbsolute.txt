@@ -1,0 +1,7 @@
+C:\Users\rakib\source\repos\csharp-advanced\csharp-advanced\bin\Debug\csharp-advanced.exe.config
+C:\Users\rakib\source\repos\csharp-advanced\csharp-advanced\bin\Debug\csharp-advanced.exe
+C:\Users\rakib\source\repos\csharp-advanced\csharp-advanced\bin\Debug\csharp-advanced.pdb
+C:\Users\rakib\source\repos\csharp-advanced\csharp-advanced\obj\Debug\csharp-advanced.csprojAssemblyReference.cache
+C:\Users\rakib\source\repos\csharp-advanced\csharp-advanced\obj\Debug\csharp-advanced.csproj.CoreCompileInputs.cache
+C:\Users\rakib\source\repos\csharp-advanced\csharp-advanced\obj\Debug\csharp-advanced.exe
+C:\Users\rakib\source\repos\csharp-advanced\csharp-advanced\obj\Debug\csharp-advanced.pdb
