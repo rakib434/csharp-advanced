@@ -50,6 +50,7 @@
     <Compile Include="Event\MessageService.cs" />
     <Compile Include="Event\Video.cs" />
     <Compile Include="Event\VideoEncoder.cs" />
+    <Compile Include="Extension Method\Extensions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
