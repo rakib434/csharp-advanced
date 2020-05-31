@@ -46,6 +46,10 @@
     <Compile Include="Delegate\Photo.cs" />
     <Compile Include="Delegate\PhotoFilters.cs" />
     <Compile Include="Delegate\PhotoProcessors.cs" />
+    <Compile Include="Event\MailService.cs" />
+    <Compile Include="Event\MessageService.cs" />
+    <Compile Include="Event\Video.cs" />
+    <Compile Include="Event\VideoEncoder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
